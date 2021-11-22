@@ -1,0 +1,15 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-blakegreendevcourse-prod-154410-authRole",
+      "UnauthRoleArn": "arn:aws:iam::987092829714:role/amplify-blakegreendevcourse-prod-154410-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::987092829714:role/amplify-blakegreendevcourse-prod-154410-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-blakegreendevcourse-prod-154410-deployment",
+      "UnauthRoleName": "amplify-blakegreendevcourse-prod-154410-unauthRole",
+      "StackName": "amplify-blakegreendevcourse-prod-154410",
+      "StackId": "arn:aws:cloudformation:us-east-1:987092829714:stack/amplify-blakegreendevcourse-prod-154410/f32a0510-4bd4-11ec-9bdc-0e8b22d12a1f",
+      "AmplifyAppId": "d36056swy483w9"
+    }
+  }
+}
